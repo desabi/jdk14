@@ -1,4 +1,4 @@
-package model;
+package abasic;
 
 public class EmployeeRecordMain {
     public static void main(String[] args) {

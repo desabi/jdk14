@@ -1,4 +1,4 @@
-package model;
+package abasic;
 
 /**
  * Implementacion basica
