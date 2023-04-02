@@ -3,7 +3,7 @@ package com.desabisc.switchexpression;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class Main {
+public class MoviesMain {
     public static void main(String[] args) {
         String movie = "Lord Of The Rings";
         determineBestRole(movie);
