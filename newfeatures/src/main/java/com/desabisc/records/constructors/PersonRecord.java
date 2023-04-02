@@ -1,4 +1,4 @@
-package bconstructors;
+package com.desabisc.records.constructors;
 
 import java.util.Objects;
 

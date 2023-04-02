@@ -1,4 +1,4 @@
-package abasic;
+package com.desabisc.records.basic;
 
 /**
  * Implementacion basica
